@@ -1,4 +1,4 @@
-# uas_sembako
+# UAS_OOP_KELOMPOK 6
 Netbeans 17
 
 JDK 17
